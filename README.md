@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=wolfghost9898.github.io&style=for-the-badge&url=https%3A%2F%2Fwolfghost9898.github.io)](https://wolfghost9898.github.io/)
 <br/>
 
-## Soy Estudiante y Developer!
+## Software Engineer!
 
-- 🔭 Estoy trabajando en proyectos de mi Universidad
+- 🔭 Software Engineer
 - 🌱 Actualmente estoy aprendiendo de todo 🤣
 - 💬 Preguntame lo que sea 
 - 📺 Catador de anime profesional
