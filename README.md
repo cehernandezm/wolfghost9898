@@ -6,7 +6,6 @@
 ## Software Engineer!
 
 - 🔭 Software Engineer
-- 🌱 Actualmente estoy aprendiendo de todo 🤣
 - 💬 Preguntame lo que sea 
 - 📺 Catador de anime profesional
 
